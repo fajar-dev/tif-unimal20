@@ -1,2 +1,2 @@
-# tif-unimal20.my.id
-backup web repository mahasiswa teknik informatika unimal angkatan 2020 
+# tif-unimal20.web.id
+ repository mahasiswa teknik informatika unimal angkatan 2020 Versi OLD
